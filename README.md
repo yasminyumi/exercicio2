@@ -19,4 +19,4 @@ valor a ser pago ao funcionário seja inferior a R$ 50,00: "Atenção, dirija-se
 5. Existem 454 gramas em uma libra, e 1000 gramas em um quilo. Faça um programa que converta 
 quilos para libras e vice-versa. (Dica: use um caractere indicando a ordem da conversão,
 exemplo "java q 1000" seria o comando para converter 1000 quilos para libra, e "java l 1000"
-seria o comando para converter 1000 libras para quilo)
+seria o comando para converter 1000 libras para quilo).
