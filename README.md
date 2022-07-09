@@ -1,5 +1,6 @@
 # exercicio2
 Atividades do CEDUP, de teste de software: parte 2
+
 Página 33 do manual java
 
 1. Escreva um programa que imprima na tela a soma dos números ímpares entre 0 e 30 e a
